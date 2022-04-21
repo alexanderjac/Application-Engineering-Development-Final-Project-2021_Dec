@@ -6,7 +6,4 @@
 1. JAVA Swing
 2. Database: db4o
 
-## AUTHORS
-- Pranjal Gupta
-- Jackson Alexander
-- Uditi Mehta
+
